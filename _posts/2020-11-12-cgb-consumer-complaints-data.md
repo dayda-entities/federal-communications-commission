@@ -1,7 +1,7 @@
 ---
 title: CGB - Consumer Complaints Data
 created: '2020-11-12T13:20:14.500505'
-modified: '2021-05-08T19:47:11.421909'
+modified: '2021-05-15T11:09:58.904395'
 state: active
 type: dataset
 tags:
